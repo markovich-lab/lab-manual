@@ -1,0 +1,25 @@
+# UNM EPS and Markovich Lab Resources {#unmeps-resources}
+
+### University Codes of Conduct
+
+- [Student code of conduct](https://pathfinder.unm.edu/code-of-conduct.html)
+
+### For Grad Students
+
+- [Official UNM EPS webpage for current and incoming students](https://eps.unm.edu/graduate/index.html). This has information on application requirements, degree requirements, scholarships, and available courses.
+- [List of fellowships (internal and external)](https://grad.unm.edu/funding/fellowships/index.html)
+- [UNM Resources page](https://grad.unm.edu/resources/index.html).
+
+##  Markovich Lab Resources
+
+* [Markovich Lab website](http://www.markovichlab.org/)
+* Markovich Lab Sharepoint & Outlook Calendar - ask Katie for a link to access & collaborate!
+* [Markovich Lab GitHub account](https://github.com/markovich-lab)
+    - Lab-chat repository houses an Issues list that retains institutional and Fay Lab knowledge. It's private so be sure to ask Katie for access!
+* [Our current team](http://www.smast.umassd.edu/lab_fay/?page_id=10) 
+* Professional development materials: to-do...
+* Travel procedures: to-do...
+
+### Weekly Lab Meetings
+To be determined in Fall 2026
+- [Lab Meeting Schedule](https://github.com/markovich-lab/lab-manual/wiki/Lab-Meeting-Schedule)

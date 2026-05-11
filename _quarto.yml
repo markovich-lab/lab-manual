@@ -23,7 +23,7 @@ book:
     - 02-lab-culture-philosophy.qmd
     - 03-code-of-conduct.qmd
     - 04-onboarding.qmd
-   # - 05-expectations.qmd
+    - 05-expectations.qmd
    # - 06-offboarding.qmd
    # - 07-funding.qmd
    # - 08-communication.qmd

@@ -1,1 +1,1 @@
-Sitemap: https://markovich-lab.github.io/lab-manual/sitemap.xml
+Sitemap: https://markovichlab.org/lab-manual/sitemap.xml

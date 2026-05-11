@@ -12,7 +12,7 @@ __Want to adapt the lab manual for your group?__ This [short tutorial](https://g
 
 **Acknowledgements**
 
-The content for this book was borrowed from the [Fay Lab Manual](https://github.com/thefaylab/lab-manual), which was developed as part of their group's participation in the [Openscapes Champions program](https://openscapes.org){target="_blank"}.\
+The content for this book was borrowed from the [Fay Lab Manual](https://github.com/thefaylab/lab-manual), which was developed as part of their group's participation in the [Openscapes Champions program](https://openscapes.org).\
 We are extremely grateful to and acknowledge Dr. Gavin Fays' role in helping shaping the policies, procedures, and identity of our lab. 🙏 🙌\
 
 ---

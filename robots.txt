@@ -1,1 +1,1 @@
-Sitemap: https://thefaylab.github.io/lab-manual/sitemap.xml
+Sitemap: https://markovich-lab.github.io/lab-manual/sitemap.xml

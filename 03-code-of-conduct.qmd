@@ -2,27 +2,25 @@
 
 A _Code of Conduct_ is a set of basic ground rules that we ask participants in lab spaces to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our lab culture/philosophy, it also provides a benchmark for self-evaluation and helps better define our identity as a community. 
 
-Our code of conduct has been reviewed by the SMAST Dean's Office and by UMassD Human Resources and office of Diversity, Equity, and Inclusion.   
+<!-- Our code of conduct has been reviewed by the UNM EPS Dean's Office and by UNM Human Resources and office of Diversity, Equity, and Inclusion. -->
 
 __We expect all lab members to adhere to the policies and guidelines outlined here.__  
 
-Additional information and resources can be found in the [SMAST Code of Conduct and Diversity Statement](https://www.umassd.edu/media/umassdartmouth/smast/lab-pdf-files/SMAST---Code-of-conduct-and-diversitystatement_2.25.20-(1).docx).  
+<!-- Additional information and resources can be found in the [UNM EPS Code of Conduct and Diversity Statement](https://www.umassd.edu/media/umassdartmouth/UNM EPS/lab-pdf-files/UNM EPS---Code-of-conduct-and-diversitystatement_2.25.20-(1).docx).  -->
 
 
 ## Short version
 
-The Fay lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form and prioritize marginalized people’s safety over privileged people’s comfort.  
+The Markovich lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form and prioritize marginalized people’s safety over privileged people’s comfort.  
 
-This code of conduct applies to all Fay lab spaces, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies.
-Some Fay lab spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.  
+This code of conduct applies to all Markovich lab spaces, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies.
+Some Markovich lab spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.  
 
 ## Longer version
 
-The Fay lab is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of group members or others in our larger communities in any form. Bullying is unwanted, aggressive behavior that involves a real or perceived power imbalance. The [University of Massachusetts Dartmouth’s Equal Opportunity and Anti-Harassment policies, complaint procedures and form](https://www.umassd.edu/media/umassdartmouth/eeo/pdfs/Complaint_Procedures_and_Form_Revised_September_2017.pdf) provides definitions and examples of harassment and sexual harassment.  
+The Markovich lab is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of group members or others in our larger communities in any form. Bullying is unwanted, aggressive behavior that involves a real or perceived power imbalance. 
 
-This code of conduct applies to all Fay lab spaces, including group and individual meetings (face to face and remote), workshops, social get togethers, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the School’s and university’s academic policies.  
-
-Some Fay lab spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.  
+This code of conduct applies to all Markovich lab spaces, including group and individual meetings (face to face and remote), workshops, social get togethers, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the School’s and university’s academic policies.  
 
 Harassment includes:  
 
@@ -43,7 +41,7 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.  
 
-The Fay lab prioritizes marginalized people’s safety over privileged people’s comfort. The PI (Gavin Fay) reserves the right not to act on complaints regarding:  
+The Markovich lab prioritizes marginalized people’s safety over privileged people’s comfort. The PI (Katie Markovich) reserves the right not to act on complaints regarding:  
 
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
@@ -52,24 +50,20 @@ The Fay lab prioritizes marginalized people’s safety over privileged people’
 
 ### Reporting
 
-If you are being harassed by a member of the Fay lab, notice that someone else is being harassed, or have any other concerns, please contact the PI, Dr. Gavin Fay, at [gfay@umassd.edu](mailto:gfay@umassd.edu). If you do not wish to contact Dr. Fay, please contact Department Chair Dr. Changsheng Chen [c1chen@umassd.edu](mailto:c1chen@umassd.edu) and/or SMAST Assistant Dean Mike Marino [mmarino@umassd.edu](mailto:mmarino@umassd.edu). If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.  
+If you are being harassed by a member of the Markovich lab, notice that someone else is being harassed, or have any other concerns, please contact the PI, Dr. Katie Markovich, at [kmarkovich@unm.edu](mailto:kmarkovich@unm.edu). If you do not wish to contact Dr. Markovich, please contact Department Chair Dr. Joe Galewsky [c1chen@umassd.edu](mailto:c1chen@umassd.edu) and/or UNM EPS Assistant Chair Lindsay Lowe-Worthington [mmarino@umassd.edu](mailto:mmarino@umassd.edu). If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.  
 
-Lab members who believe they have been subjected to any kind of discrimination that conflicts with the University of Massachusetts’ policies and/or the laws of the Commonwealth of Massachusetts’ should seek assistance from a supervisor or an HR representative. [Information about the University of Massachusetts Dartmouth’s Equal Opportunity and Anti-Harassment policies, complaint procedures and form](https://www.umassd.edu/media/umassdartmouth/eeo/pdfs/Complaint_Procedures_and_Form_Revised_September_2017.pdf).  
+Lab members who believe they have been subjected to any kind of discrimination that conflicts with the University of New Mexico's policies and/or the laws of the state of New Mexico should seek assistance from a supervisor or an HR representative. [Information about the University of New Mexico's Equal Opportunity and Anti-Harassment policies, complaint procedures and form](https://www.umassd.edu/media/umassdartmouth/eeo/pdfs/Complaint_Procedures_and_Form_Revised_September_2017.pdf).  
 
 
-__Confidentiality:__  Please remember that by way of his position at the university, Dr. Fay is a mandated reporter under Title IX. This means that he is not allowed to keep matters falling under Title IX confidential, and is required to disclose these incidents to the administration. You are welcome to discuss matters with Dr. Fay, but please keep this in mind when doing so. Gavin will do his best to remind you of his responsibilities at the start of conversations anticipated to relate to these topics. If you would prefer to discuss incidents of harassment that fall under Title IX with a confidential source, you can contact [David Gomes, UMass Dartmouth Director of Diversity and Inclusion](mailto:david.gomes.eeo@umassd.edu).  
+__Confidentiality:__  Please remember that by way of his position at the university, Dr. Markovich is a mandated reporter under Title IX. This means that he is not allowed to keep matters falling under Title IX confidential, and is required to disclose these incidents to the administration. You are welcome to discuss matters with Dr. Markovich, but please keep this in mind when doing so. Gavin will do his best to remind you of his responsibilities at the start of conversations anticipated to relate to these topics. If you would prefer to discuss incidents of harassment that fall under Title IX with a confidential source, you can contact [David Gomes, UMass Dartmouth Director of Diversity and Inclusion](mailto:david.gomes.eeo@umassd.edu).  
 
-This code of conduct applies to Fay lab spaces, but if you are being harassed by a member of the Fay lab or another member of the SMAST community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Fay lab members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the Fay lab based on their past behavior, including behavior outside Fay lab spaces and behavior towards people who are not in the Fay lab. The [University Counseling Center](http://www.umassd.edu/counseling/) provides a range of services to help students develop improved coping skills to address emotional, interpersonal and academic concerns.  
-
-To protect our team members from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.  
-
-The above caveats noted, we will respect confidentiality requests for the purpose of protecting victims of abuse when possible. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of the Fay lab members or the general public. We will not name harassment victims without their affirmative consent.  
+This code of conduct applies to Markovich lab spaces, but if you are being harassed by a member of the Markovich lab or another member of the UNM EPS community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Markovich lab members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the Markovich lab based on their past behavior, including behavior outside Markovich lab spaces and behavior towards people who are not in the Markovich lab. The [University of New Mexico Counseling Assistance and Referral Services](https://cars.unm.edu/index.html) provides a range of services to help students develop improved coping skills to address emotional, interpersonal and academic concerns.  
 
 ### Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately.  
 
-If a participant engages in harassing behavior, Dr. Fay may take any action they deem appropriate, which includes referral to the Department Chair and Dean’s Office under the SMAST policy, and also including expulsion from all Fay lab spaces.  
+If a participant engages in harassing behavior, Dr. Markovich may take any action they deem appropriate, which includes referral to the Department Chair and Dean’s Office under the UNM EPS policy, and also including expulsion from all Markovich lab spaces.  
 
 ### Additional resources
 
@@ -90,4 +84,4 @@ Other [University of Massachusetts Board of Trustees and University documents](h
 
 ## License and attribution
 
-This anti-harassment policy is based on the [example policy created by the Geek Feminism community](https://geekfeminism.wikia.org/wiki/Community_anti-harassment). It has also been written to fall within the [SMAST Code of Conduct and Diversity Statement](https://www.umassd.edu/media/umassdartmouth/smast/lab-pdf-files/SMAST-Code-of-Conduct-and-Diversity-Statement.pdf), and has been reviewed by the SMAST Dean’s office and UMass Dartmouth Departments of Human Resources and Office of Diversity Equity and Inclusion. 
+This anti-harassment policy is based on the [example policy created by the Geek Feminism community](https://geekfeminism.wikia.org/wiki/Community_anti-harassment). It has also been written to fall within the [UNM EPS Code of Conduct and Diversity Statement](https://www.umassd.edu/media/umassdartmouth/UNM EPS/lab-pdf-files/UNM EPS-Code-of-Conduct-and-Diversity-Statement.pdf), and has been reviewed by the UNM EPS Dean’s office and UMass Dartmouth Departments of Human Resources and Office of Diversity Equity and Inclusion. 

@@ -10,7 +10,7 @@ This lab manual resource is intended to provide an overview for lab members and 
 <br>
 
 The content for this book was borrowed from the [Fay Lab Manual](https://github.com/thefaylab/lab-manual), which was developed as part of their group's participation in the [Openscapes Champions program](https://openscapes.org){target="_blank"}.\
-We are extremely grateful to and acknowledge [Dr. Gavin Fays](https://www.linkedin.com/in/julia-stewart-lowndes/){target="_blank"}' role in helping shaping the policies, procedures, and identity of our lab. 🙏 🙌\
+We are extremely grateful to and acknowledge Dr. Gavin Fays' role in helping shaping the policies, procedures, and identity of our lab. 🙏 🙌\
 
 ------------------------------------------------------------------------
 

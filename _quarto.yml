@@ -21,7 +21,7 @@ book:
     - index.qmd
     - 01-intro-how-we-work.qmd
     - 02-lab-culture-philosophy.qmd
-   # - 03-code-of-conduct.qmd
+    - 03-code-of-conduct.qmd
    # - 04-onboarding.qmd
    # - 05-expectations.qmd
    # - 06-offboarding.qmd
@@ -31,8 +31,6 @@ book:
    # - 10-courses.qmd
    # - 11-computing.qmd
    # - 12-unm-resources.qmd
-#    - 13-smast-resources.qmd
-#    - 14-other-faylab-resources.qmd  
 
 
 # not sure what the following line does; those files are present

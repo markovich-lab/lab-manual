@@ -13,7 +13,7 @@ book:
       <a href="https://markovichlab.org/">The Markovich lab</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://markovich-lab.github.io/lab-manual/
+  site-url: https://markovichlab.org/lab-manual/
   repo-url: https://github.com/markovich-lab/lab-manual
   repo-actions: [edit,issue]
 

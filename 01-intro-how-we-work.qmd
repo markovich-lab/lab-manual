@@ -42,7 +42,7 @@ We maintain a lab Sharepoint folder for lab publications, presentations, photos,
 
 ## Shared lab resources
 
-Where to find shared resources: - Sharepoint - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester - GitHub - markovich-lab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, see section [13](https://thefaylab.github.io/lab-manual/12-unm-resources.html) for other useful resources and take a look at the [Wiki](https://github.com/markovich-lab/lab-manual/wiki/Lab-Meeting-Schedule) to see the lab meeting schedule.
+Where to find shared resources: - Sharepoint - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester - GitHub - markovich-lab is the shared GitHub account for the lab - lab-manual - This repository contains the lab manual, and the [Wiki](https://github.com/markovich-lab/lab-manual/wiki/Lab-Meeting-Schedule) has the lab meeting schedule.
 
 ## References
 

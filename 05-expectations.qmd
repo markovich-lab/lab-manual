@@ -1,6 +1,6 @@
 # Expectations {#expectations}
 
-In addition to agreeing to follow our communities codes of conduct and the university academic integrity policy (Chapter \@ref(culture)), we expect everyone in the group to echo our lab culture (Chapter \@ref(culture)). 
+In addition to agreeing to follow our communities codes of conduct and the university academic integrity policy (Chapter \@ref(code)), we expect everyone in the group to echo our lab culture (Chapter \@ref(culture)). 
 
 __Individual mentoring plans:__  Katie will work with each of you to develop your individual development and mentoring plan that serves to ensure your time in the Markovich lab progresses your short, medium, and long-term goals. This is a useful planning document that assists in aligning expectations. Graduate students will revisit the mentoring plan during an individual meeting with Katie at the beginning of each semester & the start of summer. Other lab members will revisit these at appropriate time scales (e.g. every 6 months).  
 
